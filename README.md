@@ -7,7 +7,7 @@
 📍 **Herceg Novi, Montenegro** &nbsp;·&nbsp; **Zlatibor, Serbia**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viktor-nesic/)
-[![Website](https://img.shields.io/badge/Website-viktornesic.com-111827?style=for-the-badge&logo=safari&logoColor=white)](https://viktornesic.com)
+![Website](https://img.shields.io/badge/Website-Under%20Construction-F59E0B?style=for-the-badge&logo=safari&logoColor=white)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viktornesic@gmail.com)
 
 </div>
